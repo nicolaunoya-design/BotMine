@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5000,
       "messages": [
         "Nao é permitido roubos em lojas ou bases no spawn",
         "Caso tenha duvidas das regras entre em contato com os adms"
@@ -49,7 +49,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 500
     },
     "look-around": {
       "enabled": true,
@@ -61,8 +61,8 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
+    "avoidMobs": false,
+    "combat": false,
     "beds": true,
     "chat": true,
     "console-commands": true
