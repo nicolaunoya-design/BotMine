@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BotCreative",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "ns576425.seedloaf.com",
+    "port": 49434,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Nao é permitido roubos em lojas ou bases no spawn",
+        "Caso tenha duvidas das regras entre em contato com os adms",
       ]
     },
     "chat-log": true,
