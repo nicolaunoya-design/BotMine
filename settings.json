@@ -8,7 +8,7 @@
   "server": {
     "ip": "bichocreative.sdlf.fun",
     "port": 25565,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
